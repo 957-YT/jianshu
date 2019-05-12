@@ -1,0 +1,67 @@
+{
+    "success": "true",
+    "data": {
+        "topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id":1,
+			"title": "王阳明：世间并不亏欠你，是你亏欠了自己",
+			"imgUrl": "http://upload-images.jianshu.io/upload_images/4298189-09e649a2a4962b5f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+			"desc": "1、人要对自己有信心， 坚信自己的价值。 王阳明在庐陵担任县令时，抓到了一个罪恶滔天的大盗。 这个大盗冥顽不灵，面对各种讯问强烈顽抗。 王阳明亲..."
+		},
+		{
+			"id":2,
+			"title": "仓央嘉措：陌上花，相思扣（太美了)",
+			"imgUrl": "http://upload-images.jianshu.io/upload_images/12006178-abdac216ad829369.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+			"desc": "前世， 我为青莲，你为梵音， 一眸擦肩，惊艳了五百年的时光。 花绵绵而绽， 音靡靡而绕， 低眉含笑间， 谁的深情绚烂了三生石上的一见倾心？ 今生..."
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+		}, {
+			"id": 3,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}, {
+			"id": 4,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+		}],
+		"writerList": [{
+			"id":1,
+			"author": "茶点故事",
+			"imgUrl": "http://upload.jianshu.io/users/upload_avatars/4790772/388e473c-fe2f-40e0-9301-e357ae8f1b41.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"desc": "写了229.9k字 · 7.9k喜欢"
+	},
+		{
+			"id":2,
+			"author": "途可小姐",
+			"imgUrl": "http://upload.jianshu.io/users/upload_avatars/22609/cd56e2a2-4245-45ea-892e-23c4eb8274bf.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"desc": "写了88.9k字 · 1.4k喜欢"
+	},
+		{
+			"id":3,
+			"author": "名贵的考拉熊",
+			"imgUrl": "http://upload.jianshu.io/users/upload_avatars/7663825/7c28763e-002b-4e89-8dea-5b8da210ef2c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+			"desc": "写了227.7k字 · 18.3k喜欢"
+	},{
+		"id":4,
+		"author": "三叶秋",
+		"imgUrl": "http://upload.jianshu.io/users/upload_avatars/7778745/7c512474-3865-4c39-b4f2-d0a830174e62.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+		"desc": "写了212.7k字 · 5.3k喜欢"
+	},{
+		"id":5,
+		"author": "紫夜星沙",
+		"imgUrl": "http://upload.jianshu.io/users/upload_avatars/8013057/d840aea9-02da-4ccf-ac6e-b48c7b4653e4.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+		"desc": "写了188.5k字 · 656喜欢"
+	}]
+    }
+}
